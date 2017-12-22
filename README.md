@@ -4,3 +4,6 @@
 (instancetype)initWithFrame:(CGRect)frame andControllers:(NSArray <UIViewController *> *)controllers;
 ```
  初始化
+
+## Demo
+![demo](./demo.gif)
